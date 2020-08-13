@@ -1,0 +1,21 @@
+{
+    "name": "zk_green_label",
+    "version": "1.0.0",
+    "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://intellinext_em@bitbucket.org/intellinext_em/zk_green_label.git"
+    },
+    "author": "Eduardo Martinez <em@intelli-next.com>",
+    "license": "ISC",
+    "homepage": "https://bitbucket.org/intellinext_em/zk_green_label#readme",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "body-parser": "^1.19.0",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "moment-timezone": "^0.5.31"
+    }
+  }
+  
